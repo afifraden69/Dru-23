@@ -64,10 +64,11 @@ else:
 
 def banner():
     print(f"""
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃author:Muhamad Badru Wasih             ┃
-┃fb:Fb.com/Bang.Badru23                 ┃                             ┃wa:08811403654                         ┃                             ┃version:3++                            ┃
-┠━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
+╔══════•ೋೋ•══════╗
+   Author:Muhamad Badru Wasih
+   Fb:Fb.com/Bang.badru23
+   Wa:08811403654
+╚══════•ೋೋ•══════╝""")
 host="https://mbasic.facebook.com"
 ua="Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G930T1 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36 [FB_IAB/MESSENGER;FBAV/110.0.0.14.69"
 ips=None
