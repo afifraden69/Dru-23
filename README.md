@@ -5,12 +5,13 @@
 <h4 align="center">
   Jangan Lupa Istigfar
 
+<img src="https://github.com/Dru-Crack22/CrackOld/blob/main/Screenshot_20210530_232718.jpg" />
 
-<img src="https://https://github.com/Dru-Crack22/Crack237/blob/main/Screenshot_20210530_232718.jpg" />
+
 
 ### Fitures
 ```
-- Crack Dari  ID Grub  
+
 - Crack Dari  ID Daftar Teman
 - Crack Dari  ID Daftar Teman Publik
 - Ambil ID
