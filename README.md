@@ -28,11 +28,11 @@ pip install requests bs4 futures
 pkg install git
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Dru-Crack22/mbf
+git clone https://github.com/Dru-Crack22/Dru-23
 ```
 ### Run this script
 ```
-cd mbf
+cd Dru-23
 python3 fbold_.py
 ```
 ### MY SOCIAL MEDIA
