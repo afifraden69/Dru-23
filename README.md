@@ -27,12 +27,12 @@ pkg install python2
 pkg install git
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Dru-Crack22/CrackOld
+git clone https://github.com/Dru-Crack22/mbf
 ```
 ### Run this script
 ```
-cd CrackOld
-python dru.py
+cd mbf
+python3 fbold_.py
 ```
 ### MY SOCIAL MEDIA
 * [<img alt="badru Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Dru-Crack22)<br />
